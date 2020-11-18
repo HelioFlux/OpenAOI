@@ -19,11 +19,12 @@ Our goal is to provide high-quality, fully specified, tested and documented PLC 
 
 ## Getting Started
 ### Prerequisites
-We assume you are familiar with industrial control software and programming languages (ie: Ladder Logic, Function Block, SFC...).
+We assume you are familiar with industrial control software and programming languages (ie: Ladder Logic, Function Block, SFC...).  Code is provided as an AOI in .L5k format.
 
 ### Installation
 
 ## Usage
+Code can be imported like any other AOI.  For details on how to use specific AOI modules see the module documentation.
 
 ## Roadmap
 
