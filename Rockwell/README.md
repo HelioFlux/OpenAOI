@@ -1,1 +1,0 @@
-# Rockwell AOI Library
